@@ -2,6 +2,8 @@
 
 * Fork this repository into your own GitHub account
 * Clone the repository to your RStudio server account
+* Complete all the problems in PR02executionsUSA.Rmd
+* Make sure everyone in your group has a final copy!
 
 You will use the three datasets below in your project. They are included in the GitHub repository. Please read through the variables and their descriptions. All data were sourced from the [Death Penalty Information Center](https://deathpenaltyinfo.org/).
 
