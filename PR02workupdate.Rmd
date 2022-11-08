@@ -1,0 +1,31 @@
+---
+title: "Group Project Update"
+subtitle: "STT2860 F22 Project 02"
+author: "Authors: ALL GROUP MEMBER NAMES HERE"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+***
+
+**Work Plan/Assignments Update**
+
+Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
+
+ERASE THIS TEXT AND ANSWER THE QUESTION
+
+**Completion Timeline Update**
+
+Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
+
+ERASE THIS TEXT AND ANSWER THE QUESTION
+
+**Communication Update**
+
+Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Be honest! Explain.
+
+ERASE THIS TEXT AND ANSWER THE QUESTION
+
+***

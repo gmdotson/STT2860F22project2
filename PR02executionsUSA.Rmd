@@ -1,0 +1,141 @@
+---
+title: "Capital Punishment in the U.S."
+subtitle: "STT2860 Project 02 Fall 2022"
+author: "GROUP MEMBER NAMES HERE"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+    toc: TRUE
+    toc_depth: 4
+---
+<hr>
+
+```{r globaloptions, include = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  comment = NA
+)
+```
+
+### Packages Used
+
+```{r}
+
+```
+
+### Read Data Files
+
+```{r}
+
+```
+
+### Plot #1: How Many States Have Capital Punishment? 
+
+* Create a barplot for the variable `dp2`. 
+* Use `color =` and `fill =` to format the bars.
+* Use `labs()` to add a title and better axis labels.
+* Apply a built-in theme from **ggplot2** or **ggthemes**.
+* You may optionally add a subtitle or caption to the plot.
+* This plot should *not* have a visible legend anywhere on it.
+
+```{r}
+
+```
+
+### Plot #2: Capital Punishment By Region of the U.S.
+
+* Create a barplot for the variable `region`. 
+* Use `fill =` to shade each bar according to `dp2`.
+* Change the `position =` to set each bar equal to 100%.
+* Use `width =` to make the bars narrower than the default.
+* Use `labs()` to add a title, axis labels, and a better legend label.
+* Use `scale_fill_manual()` to choose a different color scheme for the plot. 
+* Use `theme()` to move the legend to the bottom of the plot instead of the right
+* You may optionally add a subtitle, caption, or ggplot2 built-in theme to the plot.
+
+```{r}
+
+```
+
+### Plot #3: Number of Prisoners on Death Row
+
+* Create a barplot for the total number of prisoners (y) in each year (x).
+* Fill the bars using the variable `decade` and outline them all in black.
+* Set the width of all the bars so there is no visible gap in between them.
+* Scale the x-axis to include a tick mark at each decade (1970, 1980, etc).
+* Scale the y axis so that it is numbered 0, 500, 1000, 1500, 2000, etc.
+* Use `labs()` to add or change the title, axis labels, and legend label. 
+* Use `theme()` to do the following:
+    * center your title
+    * set the plot background to white or blank
+    * set all axis tick marks to transparent or blank
+    * set the major x-axis gridlines to transparent or blank
+    * set the major y-axis gridlines to light gray
+* You may optionally change the bar color scheme used in your plot
+
+```{r}
+
+```
+
+### Plot #4: Number of Executions Since 1976
+
+* Create a violin plot for the variable `post1976` (use `y = 0`)
+* Add a boxplot and set the width so it fits inside the violin plot
+* Fill each plot with a color of your choice (be colorblind-aware)
+* Scale the x-axis of the plot so that it counts in increments of 25
+* Get rid of all y-axis markings/gridlines using `scale_y_continuous()`
+* Add a title, x-axis label, and a caption to identify the large outlier
+* Add the built-in theme `theme_linedraw()` or `theme_minimal` to the plot
+
+Hint: You can use the `NULL` vector in functions like `scale_y_continuous()`
+
+```{r}
+
+```
+
+### Plot #5: Death Sentences in NC Since 1976
+
+Create a time series plot of death sentences in North Carolina. Use three geometries on this plot: `geom_area()`, `geom_line()` and `geom_point()`. Use `geom_vline()` to add a vertical line for 2001. The significance of this year is that the General Assembly modified the death penalty statute in several ways, including giving prosecutors the discretion to *not* seek the death penalty in cases where it previously would have been mandatory. Format and label your plot in such a way that the information it conveys would be clear to the reader (i.e., the plot is reasonably stand-alone).
+
+```{r}
+
+```
+
+### Information Conveyed by Your Plots
+
+List two pieces of information you can learn or comparisons you can make from each plot above.
+
+#### Plot #1
+
+* Item 1:
+* Item 2:
+
+#### Plot #2
+
+* Item 1:
+* Item 2:
+
+#### Plot #3
+
+* Item 1:
+* Item 2:
+
+#### Plot #4
+
+* Item 1:
+* Item 2:
+
+#### Plot #5
+
+* Item 1:
+* Item 2:
+
+
+<hr>
+
+```{r}
+sessionInfo()
+```

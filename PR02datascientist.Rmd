@@ -1,0 +1,54 @@
+---
+title: "Becoming a Data Scientist"
+subtitle: "STT2860 Project 01 Fall 2022"
+author: "YOUR NAME HERE"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+<hr>
+
+**Q1: What is the name of the person interviewed?**
+
+ANSWER:
+
+**Q2: Why did you choose the particular interview you did?**
+
+ANSWER:
+
+**Q3: Does the person consider themselves a data scientist?**
+
+ANSWER:
+
+**Q4: What is their formal and self-taught education in data science?**
+
+ANSWER:
+
+**Q5: What has been their career path? Did they start off in data science?**
+
+ANSWER:
+
+**Q6: What programs/technologies to they use when working in data science?**
+
+ANSWER:
+
+**Q7: What is one interesting (to you) data science problem they have worked on?**
+
+ANSWER:
+
+**Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
+
+ANSWER:
+
+**Q9: Was there anything that surprised you or that you particularly identified with?**
+
+ANSWER:
+
+**Q10: Q10: How did this person path differ from the previous interview you watched?**
+
+ANSWER:
+
+<hr>
+
