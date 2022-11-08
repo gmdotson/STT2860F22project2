@@ -26,11 +26,18 @@ Selected data about the death penalty in the United States as of November 6, 202
 
 Number of prisoners on death row in the U.S. for each year from 1968 to 2021.
 
+### Variables
+
 * `year`: year
 * `total`: total prisoners on death row
 
 `deathsentencesNC.rds`
 
-Number of death sentences given per year in N.C. for each year from 1977 to 2021.
+Number of people given death sentences per year in N.C. for each year from 1977 to 2021.
+
+### Variables
+
+* `year`: year
+* `total`: total number of sentences
 
 All data sourced from [Death Penalty Information Center](https://deathpenaltyinfo.org/).
