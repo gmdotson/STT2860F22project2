@@ -3,7 +3,7 @@
 * Fork this repository into your own GitHub account
 * Clone the repository to your RStudio server account
 
-You will use the three datasets below in your project. They are included in the GitHub repo. All data was sourced from [Death Penalty Information Center](https://deathpenaltyinfo.org/).
+You will use the three datasets below in your project. They are included in the GitHub repository. All data was sourced from [Death Penalty Information Center](https://deathpenaltyinfo.org/).
 
 ***
 `cappunish.rds` : Selected data about the death penalty in the United States as of November 6, 2022. 
