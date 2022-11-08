@@ -1,4 +1,4 @@
-# Dataset Descriptions
+## Dataset Descriptions
 
 `cappunish.rds` : Selected data about the death penalty in the United States as of November 6, 2022. 
 
