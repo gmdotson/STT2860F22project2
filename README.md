@@ -1,7 +1,9 @@
-## Dataset Descriptions
+# Instructions
+
+* Fork this repository into your own GitHub account
+* Clone the repository to your RStudio server account
 
 ***
-
 `cappunish.rds` : Selected data about the death penalty in the United States as of November 6, 2022. 
 
 ### Variables
