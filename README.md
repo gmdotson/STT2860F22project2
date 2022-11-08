@@ -37,7 +37,7 @@ You will use the three datasets below in your project. They are included in the 
 
 ***
 
-`deathsentencesNC.rds` : Number of people given death sentences per year in N.C. for each year from 1977 to 2021.
+`deathsentencesNC.rds` : Number of people given death sentences in N.C. for each year from 1977 to 2021.
 
 ### Variables
 
