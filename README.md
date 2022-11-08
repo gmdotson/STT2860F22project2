@@ -2,9 +2,9 @@
 
 `cappunish.rds`
 
-Selected data about the death penalty in the United States as of November 6, 2022. Sourced from [Death Penalty Information Center](https://deathpenaltyinfo.org/).
+Selected data about the death penalty in the United States as of November 6, 2022. 
 
-### Variables---Capital Punishment Dataset
+### Variables
 
 * `state`: state name (including District of Columbia)
 * `region`: US Census region
@@ -24,4 +24,13 @@ Selected data about the death penalty in the United States as of November 6, 202
 
 `deathrowsize.rds`
 
+Number of prisoners on death row in the U.S. for each year from 1968 to 2021.
+
+* `year`: year
+* `total`: total prisoners on death row
+
 `deathsentencesNC.rds`
+
+Number of death sentences given per year in N.C. for each year from 1977 to 2021.
+
+All data sourced from [Death Penalty Information Center](https://deathpenaltyinfo.org/).
