@@ -20,18 +20,18 @@
 * `felony`: whether someone can get the death penalty as a felony accessory
 * `sentence`: who decides on whether someone gets a death penalty sentence
 
-`deathrowsize.rds`
+***
 
-Number of prisoners on death row in the U.S. for each year from 1968 to 2021.
+`deathrowsize.rds` : Number of prisoners on death row in the U.S. for each year from 1968 to 2021.
 
 ### Variables
 
 * `year`: year
 * `total`: total prisoners on death row
 
-`deathsentencesNC.rds`
+***
 
-Number of people given death sentences per year in N.C. for each year from 1977 to 2021.
+`deathsentencesNC.rds` : Number of people given death sentences per year in N.C. for each year from 1977 to 2021.
 
 ### Variables
 
